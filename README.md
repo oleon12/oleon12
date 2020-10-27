@@ -14,6 +14,7 @@ I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested 
 [<img align="left" alt="GoogleA" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Google%20Scholar%20icon.svg" />][GoogleAcademic]
 [<img align="left" alt="Twitter" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Twitter%20icon.svg" />][Twitter]
 [<img align="left" alt="Instagram" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Instagram%20icon.svg" />][Instagram]
+[<img align="left" alt="Rpubs" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Instagram%20icon.svg" />][Rpubs]
 
 
 [website]: https://leon-alvarado.weebly.com/
@@ -23,3 +24,4 @@ I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested 
 [Instagram]: https://www.instagram.com/omar.daniel1206/?hl=es
 [alignTools]: https://github.com/oleon12/alignTools
 [BatWing]: https://github.com/oleon12/BatWing
+[Rpubs]: https://rpubs.com/oleon12
