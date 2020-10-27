@@ -7,6 +7,7 @@ I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested 
 ### Connect with me:
 
 [<img align="left" alt="weebly" width="22px" src="https://github.com/oleon12/oleon12/blob/main/Img/weebly.png" />][website]
+[<img align="left" alt="research" width="22px" src="https://github.com/oleon12/oleon12/blob/main/Img/Researchgat.png" />][researchG]
 
 
 [website]: https://leon-alvarado.weebly.com/
