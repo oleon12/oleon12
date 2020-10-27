@@ -1,6 +1,6 @@
 ### Hi there, I'm [Omar][website], aka oleon12
 
-I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested in programming. My principal programming language is R (still learning), but also I'm practing and learning others e.g., Python and Java. 
+I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested in programming. My main programming language is R (still learning), but also I'm practing and learning others e.g., Python and Java. 
 
 ### My babies
 
