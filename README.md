@@ -5,8 +5,8 @@ I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested 
 ### My babies
 
 - [alignTools][alignTools] R-package 
-[<img alt="R" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]
-- [BatWing][BatWing] R-package [<img align="left" alt="R" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]
+<img alt="R" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+- [BatWing][BatWing] R-package <img alt="R" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
 
 ### Connect with me:
