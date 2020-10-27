@@ -6,8 +6,11 @@ I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested 
 
 ### Connect with me:
 
-[<img align="left" alt="weebly" width="22px" src="https://github.com/oleon12/oleon12/blob/main/Img/weebly.png" />][website]
-[<img align="left" alt="research" width="22px" src="https://github.com/oleon12/oleon12/blob/main/Img/Researchgat.png" />][researchG]
+[<img align="left" alt="weebly" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/weebly.png" />][website]
+[<img align="left" alt="research" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Researchgat.png" />][researchG]
+[<img align="left" alt="GoogleA" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Google%20Scholar%20icon.svg" />][GoogleAcademic]
+[<img align="left" alt="Twitter" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Twitter%20icon.svg" />][Twitter]
+[<img align="left" alt="Instagram" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Instagram%20icon.svg" />][Instagram]
 
 
 [website]: https://leon-alvarado.weebly.com/
