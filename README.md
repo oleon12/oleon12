@@ -5,7 +5,7 @@ I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested 
 ### My babies
 
 - <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /> [alignTools][alignTools] 
-- [BatWing][BatWing] <img alt="R" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+- <img alt="R" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /> [BatWing][BatWing] 
 
 
 ### Connect with me:
