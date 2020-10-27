@@ -4,8 +4,8 @@ I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested 
 
 ### My babies
 
-[alignTools][alignTools]
-[BatWing][BatWing]
+- [alignTools][alignTools] 
+- [BatWing][BatWing]
 
 ### Connect with me:
 
