@@ -2,7 +2,7 @@
 
 I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested in programming. My main programming language is R (improving), but also I'm practing and learning others e.g., Python and HTML. 
 
-### Hola, soy [Omar][sitio web], también conocido como oleon12
+### Hola, soy [Omar][website], también conocido como oleon12
 
 Soy un Magister en Animal Biodiversity, trabajo con mamíferos pero también estoy muy interesado en la programación. Mi principal lenguaje de programación es R (mejorando), pero también estoy practicando y aprendiendo otros, por ejemplo, Python y HTML.
 
