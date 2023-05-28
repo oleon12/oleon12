@@ -1,14 +1,23 @@
 ### Hi there, I'm [Omar][website], aka oleon12
 
-I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested in programming. My main programming language is R (still learning), but also I'm practing and learning others e.g., Python and Java. 
+I'm a MSc.in Animal Biodiveristy, working with Mammals but also very interested in programming. My main programming language is R (improving), but also I'm practing and learning others e.g., Python and HTML. 
 
-### My babies
+### Hola, soy [Omar][sitio web], también conocido como oleon12
+
+Soy un Magister en Animal Biodiversity, trabajo con mamíferos pero también estoy muy interesado en la programación. Mi principal lenguaje de programación es R (mejorando), pero también estoy practicando y aprendiendo otros, por ejemplo, Python y HTML.
+
+
+### Olá, sou [Omar][website], também conhecido como oleon12
+
+Sou um Mestre em Biodiversidade Animal, trabalho com Mamíferos, mas também tenho muito interesse em programação. Minha principal linguagem de programação é R (caprichando), mas também estou praticando e aprendendo outras, por exemplo, Python e HTML.
+
+### My babies / Mis crios / Meus bebês
 
 - <img width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /> [alignTools][alignTools] 
 - <img alt="R" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /> [BatWing][BatWing] 
 
 
-### Connect with me:
+### Follow me / Sigueme / Me siga :
 
 [<img align="left" alt="weebly" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/weebly.png" />][website]
 [<img align="left" alt="research" width="26px" src="https://github.com/oleon12/oleon12/blob/main/Img/Researchgat.png" />][researchG]
